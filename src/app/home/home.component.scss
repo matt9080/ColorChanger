@@ -1,0 +1,25 @@
+.container{
+    border: 2px solid black;
+    width:400px;
+    height: 200px;
+    margin: auto;
+    padding: 0px;
+}
+
+.ball{
+    border: 2px solid black; // circle has border so it can be recognized when the color is white
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+}
+
+.button-search {
+    background-color: black;
+    color: white;
+    width: 200px;
+    border-radius: 10px;
+    border: 1px solid black;
+    padding: 1%;
+    margin:50px;
+
+}
